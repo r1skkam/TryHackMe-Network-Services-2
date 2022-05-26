@@ -35,3 +35,4 @@
 `ssh -i <key-file> <username>@<ip>`
 
 ## Task 4 Exploiting NFS
+![./b -p](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-26%20160958.jpg)
