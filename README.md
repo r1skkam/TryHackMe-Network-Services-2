@@ -54,5 +54,4 @@
 
 ![hydra](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20225942.png)
 
-![smtp.txt](
-
+![smtp.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20230146.png)
