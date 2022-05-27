@@ -43,4 +43,6 @@
 [SMTP protocol Explained (How Email works?) - Afternerd](https://www.afternerd.com/blog/smtp/)
 
 ## Task 6 Enumerating SMTP
+![smtp_version](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20222900.png)
+
 
