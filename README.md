@@ -52,4 +52,7 @@
 ## Task 7 Exploiting SMTP
 `hydra -t 16 -l administrator -P /usr/share/wordlists/rockyou.txt -vV 10.10.64.127 ssh`
 
+![hydra](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20225942.png)
+
+![smtp.txt](
 
