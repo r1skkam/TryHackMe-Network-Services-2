@@ -55,3 +55,14 @@
 ![hydra](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20225942.png)
 
 ![smtp.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Screenshot%202022-05-27%20230146.png)
+
+## Task 8 Understanding MySQL
+[MySQL: SQL Query Execution](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_SQL_EXECUTION.html)
+
+[PHP: MySQL Database](https://www.w3schools.com/php/php_mysql_intro.asp)
+
+## Task 9 Enumerating MySQL
+[mysql-enum NSE script - Nmap Scripting Engine documentation](https://nmap.org/nsedoc/scripts/mysql-enum.html)
+
+[MySQL - Remote User Enumeration - Multiple remote Exploit](https://www.exploit-db.com/exploits/23081)
+
