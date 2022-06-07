@@ -84,3 +84,8 @@ root@ip-10-10-2-168:~# nc 10.10.24.180 3306
 [john hash.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/john%20hash.txt)
 
 [MySQL.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/MySQL.txt)
+
+## Task 11 Further Learning 
+[Common Exploits and Attacks](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-exploits.html)
+
+[NSA Warns of Vulnerabilities in Multiple VPN Services - Nextgov](https://www.nextgov.com/cybersecurity/2019/10/nsa-warns-vulnerabilities-multiple-vpn-services/160456/)
