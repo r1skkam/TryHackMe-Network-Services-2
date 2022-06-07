@@ -66,3 +66,5 @@
 
 [MySQL - Remote User Enumeration - Multiple remote Exploit](https://www.exploit-db.com/exploits/23081)
 
+[Enumerating MySQL](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Enumerating%20MySQL)
+
