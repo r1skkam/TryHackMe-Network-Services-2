@@ -1,0 +1,17 @@
+root@ip-10-10-2-168:~/Rooms# john hash.txt 
+Warning: detected hash type "mysql-sha1", but the string is also recognized as "mysql-sha1-opencl"
+Use the "--format=mysql-sha1-opencl" option to force loading these as that type instead
+Using default input encoding: UTF-8
+Loaded 1 password hash (mysql-sha1, MySQL 4.1+ [SHA1 256/256 AVX2 8x])
+Warning: no OpenMP support for this hash type, consider --fork=2
+Proceeding with single, rules:Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Warning: Only 2 candidates buffered for the current salt, minimum 8 needed for performance.
+Almost done: Processing the remaining buffered candidate passwords, if any.
+Proceeding with wordlist:/opt/john/password.lst
+Proceeding with incremental:ASCII
+doggie           (carl)
+1g 0:00:00:01 DONE 3/3 (2022-06-07 17:46) 0.8849g/s 2023Kp/s 2023Kc/s 2023KC/s doggie..doggia
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed. 
+root@ip-10-10-2-168:~/Rooms# 
