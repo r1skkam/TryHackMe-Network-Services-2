@@ -82,3 +82,5 @@ root@ip-10-10-2-168:~# nc 10.10.24.180 3306
 [mysql_hashdump](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/mysql_hashdump)
 
 [john hash.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/john%20hash.txt)
+
+[MySQL.txt](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/MySQL.txt)
