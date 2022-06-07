@@ -79,3 +79,5 @@ root@ip-10-10-2-168:~# nc 10.10.24.180 3306
 [mysql> show databases;](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/show%20databases)
 
 ## Task 10 Exploiting MySQL
+[mysql_hashdump](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/mysql_hashdump)
+
