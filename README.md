@@ -68,3 +68,13 @@
 
 [Enumerating MySQL](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/Enumerating%20MySQL)
 
+```
+root@ip-10-10-2-168:~# nc 10.10.24.180 3306
+[
+5.7.29-0ubuntu0.18.04.1J
+.S
+  R\ufffd\ufffd\ufffdvNd8;(K!,J>mysql_native_password
+```
+
+[mysql> show databases;](https://github.com/r1skkam/TryHackMe-Network-Services-2/blob/main/show%20databases)
+
