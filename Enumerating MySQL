@@ -1,0 +1,32 @@
+root@ip-10-10-2-168:~# msfconsole -q
+msf5 > search mysql_sql
+
+Matching Modules
+================
+
+   #  Name                             Disclosure Date  Rank    Check  Description
+   -  ----                             ---------------  ----    -----  -----------
+   0  auxiliary/admin/mysql/mysql_sql                   normal  No     MySQL SQL Generic Query
+
+
+msf5 > use 0
+msf5 auxiliary(admin/mysql/mysql_sql) > show options 
+
+Module options (auxiliary/admin/mysql/mysql_sql):
+
+   Name      Current Setting   Required  Description
+   ----      ---------------   --------  -----------
+   PASSWORD                    no        The password for the specified username
+   RHOSTS                      yes       The target host(s), range CIDR identifier, or hosts file with syntax 'file:<path>'
+   RPORT     3306              yes       The target port (TCP)
+   SQL       select version()  yes       The SQL to execute.
+   USERNAME                    no        The username to authenticate as
+
+msf5 auxiliary(admin/mysql/mysql_sql) > set rhosts 10.10.24.180
+rhosts => 10.10.24.180
+msf5 auxiliary(admin/mysql/mysql_sql) > run
+[*] Running module against 10.10.24.180
+
+[-] 10.10.24.180:3306 - Access denied
+[*] Auxiliary module execution completed
+msf5 auxiliary(admin/mysql/mysql_sql) >
